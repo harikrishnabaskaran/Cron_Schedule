@@ -1,4 +1,4 @@
-# Quartz.NET Cron Job Example
+# Quartz.NET Cron Job 
 
 This repository demonstrates how to set up a cron job in a .NET application using Quartz.NET. The cron job executes a task every 3 seconds, printing URLs to the console.
 
